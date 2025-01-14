@@ -213,5 +213,8 @@ This project demonstrates how a simple **shell script** can significantly reduce
 
 Take this solution and implement it in your organization to drive cost optimization and operational excellence! 🚀
 
+💻 Want to implement this in your environment? Check out my detailed blog for step-by-step instructions: 
+Blog link: https://learnwithneha.hashnode.dev/optimizing-log-storage-costs-with-shell-scripting-a-practical-devops-solution
+
 Special thanks to Abhishek Veeramalla for providing the solution and resources, and to the [YouTube video](https://www.youtube.com/watch?si=PGhv2DSzf84OlGt8&v=bR6AbqZK4LQ&feature=youtu.be) that served as a valuable reference for implementing the solution.
 
